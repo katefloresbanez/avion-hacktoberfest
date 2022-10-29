@@ -13,3 +13,6 @@ Create a pull request and add `katefloresbanez` as reviewer
 
 ### Step 4:
 Profit!
+
+_you can have digital badges like this too_
+[![@katefloresbanez's Holopin board](https://holopin.me/katefloresbanez)](https://holopin.io/@katefloresbanez)
